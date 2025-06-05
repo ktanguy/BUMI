@@ -34,4 +34,7 @@ To run this notebook locally or in Google Colab, you'll need:
 
 ## 🧪 Metrics Output Example
 
-
+Accuracy: 0.933
+F1 Score: 0.909
+Recall: 0.833
+Precision: 1.000
