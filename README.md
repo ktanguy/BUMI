@@ -38,3 +38,15 @@ Accuracy: 0.933
 F1 Score: 0.909
 Recall: 0.833
 Precision: 1.000
+
+
+
+
+## 🔧 Author
+
+- **Tanguy Kwizera** – [@ktanguy](https://github.com/ktanguy)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
